@@ -10,3 +10,4 @@ Each prompt gives a character and a scenario, and asks a leading question that w
 Remember to change details as you see fit. Change the gender of the character, or the gender of the person they’re in love with, or the location, or their job. The sole goal of this story idea generator is to inspire you to write, so don’t feel like you have to stay true to the prompt.
 
 Another distinction between this story idea generator and others: While other creative writing prompts want you to do a small exercise or to master a technique, these are designed to spur your creativity into writing a full story.
+The End.
